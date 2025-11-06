@@ -5,7 +5,7 @@
 }
 @font-face {
   font-family: myFont; /* set name */
-  src: url(the-last-shuriken/The\ Last\ Shuriken.otf); /* url of the font */
+  src: url(fonts/The\ Last\ Shuriken.otf); /* url of the font */
 }
 #hero {
     width: 100%;
@@ -22,9 +22,12 @@
     justify-content: space-between;
     margin: auto;
 }
+.logo a {
+    display: inline-block;
+    text-decoration: none;
+}
 .logo img{
     width: 50px;
-    cursor: pointer;
     margin: 35px 0;    
 }
 nav ul li{
