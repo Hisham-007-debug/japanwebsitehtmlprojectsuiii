@@ -22,11 +22,6 @@
     justify-content: space-between;
     margin: auto;
 }
-.logo a {
-    display: inline-block;
-    text-decoration: none;
-}
-
 .logo img{
     width: 50px;
     cursor: pointer;
