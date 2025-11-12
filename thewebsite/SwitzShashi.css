@@ -10,7 +10,7 @@
 }
 @font-face {
   font-family: myFont2; 
-  src: url;;
+  src: url(fonts/awesome);
 }
 #hero {
     width: 100%;
@@ -223,7 +223,7 @@ nav ul li a:hover{
 }
 
 .location-item p {
-    color: #666;
+    color: #2c3e50;
     margin: 0;
     font-size: 30px;
     font-family: myFont2;
