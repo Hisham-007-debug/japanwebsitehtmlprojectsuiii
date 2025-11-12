@@ -43,11 +43,11 @@ nav ul li{
 }
 nav ul li a{    
     display: inline-block;
-    background: #7A3959;
+    background: #5BC0EB;
     padding: 12px 18px;
     border-radius: 8px;
     text-decoration: none;
-    color: #f9f6f6;
+    color: #ebe7e7;
     box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     font-family: myFont;
 }
@@ -146,7 +146,7 @@ nav ul li a:hover{
 
 /* Airlines links section */
 .airlines-section {
-    background: #B65781;
+    background: #fc0303;
     padding: 40px 0 80px 0;
 }
 
@@ -154,12 +154,12 @@ nav ul li a:hover{
     padding: 0 80px;
 }
 .airlines-section p{
-    color: #000000;
+    color: #fcf8f8;
     margin-bottom: 50px;
     font-family: myFont2;
 }
 .airlines-section h1 {
-    color: #333;
+    color: #f7f7f7;
     margin: 5px;
     margin-bottom: 50px;
     font-size: 56px;
@@ -184,7 +184,7 @@ nav ul li a:hover{
 
 .airlines-list li a {
     display: inline-block;
-    background: #7A3959;
+    background: #333333;
     padding: 12px 18px;
     font-size: 21px;
     border-radius: 8px;
