@@ -5,11 +5,11 @@
 }
 @font-face {
   font-family: myFont; 
-  src: url(fonts/The\ Last\ Shuriken.otf); 
+  src: url;; 
 }
 @font-face {
   font-family: myFont2; 
-  src: url(fonts/sekaiwo/Sekaiwo-Regular.otf);
+  src: url;;
 }
 #hero {
     width: 100%;
